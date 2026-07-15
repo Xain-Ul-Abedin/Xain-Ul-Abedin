@@ -9,6 +9,7 @@
 ### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23ff9900" width="20" height="20" align="center" /> Education
 - **BS Software Engineering Technology** (Ongoing) — PTUT Lahore (4th Sem completed, CGPA: 3.76/4.00)
 - **FSC Pre-Engineering** — Crescent College Shadman, Lahore (901/1200, 75.08%)
+- **Matriculation** — Govt Pilot Higher Secondary School, Lahore (1022/1100, 92.90%)
 
 ### <img src="https://api.iconify.design/lucide/award.svg?color=%23ff9900" width="20" height="20" align="center" /> Certifications & Experience
 - **SQA & Project Management Intern** — JinnByte Pvt Ltd (Summer 2025)
